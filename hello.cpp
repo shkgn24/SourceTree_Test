@@ -18,5 +18,6 @@ int main(int argc, char const *argv[])
     ios::sync_with_stdio(false);
 
     cout << "hello" << endl;
+    cout << "hello2" << endl;
     return 0;
 }
